@@ -33,5 +33,5 @@ This project demonstrates the management, streamlining, and analysis of e-commer
 ## Requirements
 - **Azure Subscription with Data Factory, Data Lake, and Databricks.**
 - **Power BI Desktop for building dashboards.**
-
+##CCL
 - **This project showcases an end-to-end data engineering pipeline using Azure and Power BI, following the Medallion Architecture for efficient data processing.**
